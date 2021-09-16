@@ -1,2 +1,3 @@
-# Solarbeam.io
-Solarbeam DEX on Moonriver
+# NOVASWAP.IO
+
+NovaSwap was made from an explosion on the surface of MoonRiver 💫
